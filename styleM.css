@@ -17,7 +17,8 @@ h1{
 
 @font-face {
   font-family: VT323;
-  src: url("VT323-Regular.ttf");
+  src: url("font/VT323-Regular.ttf");
+  
   font-family: hackedFont;
   src: url("font/HACKED.ttf");
 }
