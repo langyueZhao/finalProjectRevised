@@ -1,6 +1,6 @@
 *{
   margin： 8vh, 10vw;
-  font-family: VT323;
+  font-family: VT323-Regular;
   text-decoration: none;
   background-color: #120458;
   color: rgb(254, 117, 254);
@@ -16,11 +16,15 @@ h1{
 }
 
 @font-face {
-  font-family: VT323;
-  src: url("font/VT323-Regular.ttf");
-  
+
   font-family: hackedFont;
   src: url("font/HACKED.ttf");
+}
+
+@font-face{
+  font-family: VT323-Regular;
+  src: url("font/VT323-Regular.ttf");
+
 }
 
 /* menuPage的css */
